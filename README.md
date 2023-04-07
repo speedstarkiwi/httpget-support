@@ -17,3 +17,7 @@ game:HttpGet is a function in exploits that does HTTP GET request to a URL and r
 [lbi]: pass to compiler as well
 
 [others]: same as wrapper
+
+# WARNING
+
+**does not WORK for obfuscated scripts**
