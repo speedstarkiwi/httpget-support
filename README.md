@@ -2,7 +2,7 @@
 
 'omg i can run httpget now!' - this will make `game:HttpGet` work for you now! [works with any method as it should]
 
-[it also makes HttpGetAsync run as an extra but its super simple too lmao]
+[it also makes HttpGetAsync but u gon need to code urself]
 
 # what is this?
 
